@@ -8,7 +8,7 @@ gulp.task('sass', () => {
     'src/scss/*.scss'
   ])
   .pipe(sass({outputStyle: 'compressed'}))
-  .pipe(gulp.dest('src/scss'))
+  .pipe(gulp.dest('src/css'))
   .pipe(browserSync.stream());
 });
 gulp.task('js', () => {
