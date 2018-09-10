@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-template-gulps",
+  "version": "1.0.0",
+  "description": "Plantilla de Bootstrap en conjunto con Gulps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanueljtc/bootstrap-template-gulps.git"
+  },
+  "keywords": [],
+  "author": "Ing Emanuel Torres C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanueljtc/bootstrap-template-gulps/issues"
+  },
+  "homepage": "https://github.com/emanueljtc/bootstrap-template-gulps#readme"
+}
