@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/emanueljtc/bootstrap-template-gulps/issues"
   },
-  "homepage": "https://github.com/emanueljtc/bootstrap-template-gulps#readme"
+  "homepage": "https://github.com/emanueljtc/bootstrap-template-gulps#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
